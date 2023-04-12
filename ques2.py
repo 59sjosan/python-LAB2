@@ -1,3 +1,4 @@
+#Taking input
 a=int(input("Starting number of organisms: "))
 per=int(input("Average daily percentage increase: "))
 b=int(input("Enter the number of days to display the final data: "))
